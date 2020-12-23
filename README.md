@@ -269,7 +269,9 @@ chatbot
 | drug_disease    | 4    | 药品治疗啥疾病     |
 | disease_check   | 5    | 疾病要做啥检查检查 |
 | disease_prevent | 6    | 疾病有啥预防方式   |
-
+| disease_lasttime| 7    | 疾病持续多久       |
+| disease_cureway | 8    | 疾病有啥治疗方法   |
+ 
 + 数据增强
 
 经过人工造问句后，再针对问句结构类型单一不够多样进行了数据增强，比如采取了如下措施：句子结构倒装，同义词替换，随机插入标点加入噪音
