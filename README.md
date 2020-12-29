@@ -150,7 +150,7 @@ chatbot
 
 ### 基础数据爬取
 
-基础数据爬取于[寻医问药](<http://www.xywy.com/>)网站的健康百科中的疾病百科部分的数据，一家医疗信息提供平台，上面的数据做了较好的分类处理，爬下来后可以较为方便的保存为json格式的结构化文件，格式展示如下：
+基础数据爬取于[寻医问药](<http://www.xywy.com/>)网站的健康百科中的[疾病百科](http://jib.xywy.com/?fromurl=xywyhomepage)部分的数据，一家医疗信息提供平台，上面的数据做了较好的分类处理，爬下来后可以较为方便的保存为json格式的结构化文件，格式展示如下：
 
 <p align="center">
 	<img src=./pictures/json_show.gif alt="Sample"  width="700">
